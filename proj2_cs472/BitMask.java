@@ -1,7 +1,7 @@
 /**
 * <h1>Cache Simulation</h1>
-* This program is a softwware simulation of cache memory
-* Implementation will that of direct-mapped, Write-back cache.
+* This program is a softwware simulation of cache memory.
+* Implementation will be that of a direct-mapped, Write-back cache.
 * <p>
 * 
 *
